@@ -15,7 +15,7 @@ st.write(" ")
 
 header = st.container()
 with header:
-  st.write(">Below is the CNN(lenet) model which i used for the tuberculosis detection using human chest X-rays")
+  st.write(">Below is the CNN(lenet) model which i used for the tuberculosis detection using human chest X-rays ")
   img = Image.open('mymodel.h5.png')
   
   st.image(img,caption='CNN model')
@@ -33,7 +33,7 @@ if upload is not None:
   
   img = Image.open(upload)
   st.image(img,caption='Uploaded Image',width=300)
-  if(st.button('Predict 👈')):
+  if(st.button('Analyze 👈')):
     model = tf.keras.models.load_model(model_path)
     # x = cv2.resize(opencv_image,(28,28))
     # x = np.expand_dims(x,axis=0) 
