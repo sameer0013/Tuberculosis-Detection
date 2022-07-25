@@ -1,1 +1,3 @@
-Tuberculosis Detection using Chest X-rays of Humans.
+Tuberculosis-Detection
+
+Detect wheather a person has Tuberculosis or not by using chest X-rays of that individual.
