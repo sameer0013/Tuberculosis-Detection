@@ -1,4 +1,5 @@
-###TUBERCULOSIS DETECTION
+### TUBERCULOSIS DETECTION
+
 
 	It detect whether a person has tuberculosis or not by using Chest X-rays of humans ,it shows responses like "Tuberculosis Detected"( for X-rays having TB) or "Tuberculosis Not Detected"( for other X-rays),
 	for detection i made a lenet CNN model with some extra dense layers from scratch and here is the link of that: https://github.com/sameer0013/Tuberculosis-Detection/blob/main/mymodel.h5 ,
@@ -9,7 +10,8 @@
 
 	
 	
-##TODO
+## TODO
+
 	1) If possible i recommend you to create a virtual environment on your local system as a VE has some own benfits like 
 		VMs( Virtual machines) are isolated from one another and have their own hardware,you can create a VE  using  python or 
 		also by using Anaconda in my case i use Anaconda you can read about it on anaconda website.
