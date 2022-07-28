@@ -38,4 +38,4 @@ Kaggle is an online community platform for data scientists and machine learning 
 		you can get some random images from here.`
 		
 	
-and ya if you dont have dataset for testing worry not you can get it from [kaggle](https://www.kaggle.com/datasets/raddar/chest-xrays-tuberculosis-from-india)
+and yes if you dont have dataset for testing worry not you can get it from [kaggle](https://www.kaggle.com/datasets/raddar/chest-xrays-tuberculosis-from-india)
