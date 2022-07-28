@@ -34,8 +34,7 @@ Kaggle is an online community platform for data scientists and machine learning 
 
 5) Now for checking its working or not you have to provide it with a image of chest X-ray 
 		
-	`Warning: Image other than chest X-rays will create an error as the title define its aim is only for Tuberculosis Detection.
-		you can get some random images from here.`
+	`Warning: Image other than chest X-rays will create an error as the title define its aim is only for Tuberculosis Detection.`
 		
 	
 and yes if you dont have dataset for testing worry not you can get it from [kaggle](https://www.kaggle.com/datasets/raddar/chest-xrays-tuberculosis-from-india)
