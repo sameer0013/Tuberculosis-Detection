@@ -11,28 +11,28 @@ Kaggle is an online community platform for data scientists and machine learning 
 
 	
 	
-## TODO
+## How to use
 
 1) If possible i recommend you to create a virtual environment on your local system as a VE has some own benfits like 
-		VMs( Virtual machines) are isolated from one another and have their own hardware,you can create a VE  using  python or 
-		also by using Anaconda in my case i use Anaconda you can read about it on anaconda website.
+		VMs( Virtual machines) are isolated from one another and have their own hardware, you can create a VE using python or Anaconda.
+		In my case i am using Anaconda. you can read about it on anaconda website.
 		
 	
-2) Now, working is start from here first Clone this repositary on your system by running the command on your systems Terminal. 
+2) Now, working starts from here, first clone this repositary on your system by running the command in your system's terminal. 
 		
 		git clone https://github.com/sameer0013/Tuberculosis-Detection.git
 		
-3) Now, you have to install all the libraries or requirements just run on Terminal.
+3) Now, you have to install all the libraries or requirements. just run on Terminal.
 	
 		pip install -r requirements.txt
 		
-4) After all installation done you have to run a final command:
+4) After installation is done, you have to run this final command:
 		
 		streamlit run app.py 
 		
-	open the genrated link and hurray!! you are now able to see what i really made 
+	open the generated link and hurray!! you are now able to see what i really made. 
 
-5) Now for checking its working or not you have to provide it with a image of chest X-ray 
+5) Now, to check if it is working or not you have to provide it with a image of chest X-ray 
 		
 	`Warning: Image other than chest X-rays will create an error as the title define its aim is only for Tuberculosis Detection.`
 		
