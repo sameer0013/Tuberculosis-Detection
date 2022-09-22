@@ -15,7 +15,7 @@ Kaggle is an online community platform for data scientists and machine learning 
 
 1) If possible i recommend you to create a virtual environment on your local system as a VE has some own benfits like 
 		VMs( Virtual machines) are isolated from one another and have their own hardware,you can create a VE  using  python or 
-		also by using Anaconda in my case i use Anaconda you can read about it on anaconda website.
+		by using Anaconda in my case i use Anaconda you can read about it on anaconda website.
 		
 	
 2) Now, working is start from here first Clone this repositary on your system by running the command on your systems Terminal. 
@@ -38,3 +38,9 @@ Kaggle is an online community platform for data scientists and machine learning 
 		
 	
 and yes if you dont have dataset for testing worry not you can get it from [kaggle](https://www.kaggle.com/datasets/raddar/chest-xrays-tuberculosis-from-india)
+
+## Result 
+
+
+https://user-images.githubusercontent.com/101800541/191691810-eabf035d-2af6-40d3-ac35-a8366b823644.mp4
+
